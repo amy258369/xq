@@ -1,0 +1,38 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "天天象棋",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/battle/battle",
+			"style": {
+				"navigationBarTitleText": "对战",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ranking/ranking",
+			"style": {
+				"navigationBarTitleText": "积分榜",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "天天象棋",
+		"navigationBarBackgroundColor": "#8B4513",
+		"backgroundColor": "#F5F5DC"
+	}
+}
